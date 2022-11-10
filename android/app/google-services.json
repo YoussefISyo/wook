@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634181039851",
+    "project_id": "wook-market-f874a",
+    "storage_bucket": "wook-market-f874a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634181039851:android:10374348dde0025613f0ae",
+        "android_client_info": {
+          "package_name": "com.wook.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634181039851-ejgsjr4k2t27k75ff67gt67eq1etq3jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtml_FFMCizkRVLnH7qP7OksLSwySEXBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634181039851-ejgsjr4k2t27k75ff67gt67eq1etq3jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

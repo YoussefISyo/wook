@@ -1,0 +1,11 @@
+{
+    "name": "Wook_Market",
+  "displayName": "Wook market",
+  "apiUrl": "https://wookmarket.com/api",
+  "logHttp": true,
+  "mapKey": "AIzaSyBu_6f2mQOKaRQifFc0Xnp7vHitPLCdIZc",
+  "placeUrl": "https://maps.googleapis.com/maps/api/place/autocomplete/json",
+  "stripeKey": "pk_live_51IsoKUGwWIaCjE8IL9PwqWh57aYWiMBHKTayIPadt9Gcu4LPRJopzlfC2QQuLnSPpZH3APBiRZZRRtPpbQcKEAlv00hoIt1lns",
+  "stripeUrl": "https://api.stripe.com/v1/payment_methods",
+  "placeDetailUrl": "https://maps.googleapis.com/maps/api/place/details/json"
+}
